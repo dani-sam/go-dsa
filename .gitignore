@@ -1,0 +1,42 @@
+
+# -------------------------------------
+# Go build / test / mod files
+# -------------------------------------
+
+# Binaries for programs and tests
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, build output
+*.test
+*.out
+
+# Output of go build
+bin/
+build/
+
+# Go workspace file (if using)
+go.work
+
+# Dependency directories (vendor if used)
+vendor/
+
+# IDE/editor files
+.idea/
+.vscode/
+*.swp
+
+# Logs or temporary files
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Personal text or scratch files
+*.txt
+
+# Node: you can add other extensions if you use other tools.
